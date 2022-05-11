@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/727dnqmxisq9p8nj?svg=true)](https://ci.appveyor.com/project/Zicio/cards)
+
 [Ссылка на GP](https://zicio.github.io/cards/)
 
 [Ссылка на задание](https://github.com/netology-code/ra16-homeworks/tree/master/composition/cards)
